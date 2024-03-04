@@ -37,9 +37,6 @@ export const Footer = () => {
               >
                 <img src={gitlIcon} alt="Icon" />
               </a>
-              <a href="#" onClick={() => handleIconClick("URL_for_third_icon")}>
-                <img src={mailIcon} alt="Icon" />
-              </a>
             </div>
             <p>That's All About MySelf . Have a good !</p>
           </Col>

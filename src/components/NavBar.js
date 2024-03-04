@@ -100,14 +100,15 @@ export const NavBar = () => {
                 >
                   <img src={gitlIcon} alt="Icon" />
                 </a>
-                <a
+                {/* <a
                   href="#"
                   onClick={() =>
                     handleMailIconClick("chandanallimilli0808@gmail.com")
                   }
                 >
                   <img src={mailIcon} alt="Icon" />
-                </a>
+                </a> */}
+
                 {/* <button
                   onClick={() =>
                     handleMailIconClick("chandanallimilli0808@gmail.com")

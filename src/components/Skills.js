@@ -1,4 +1,4 @@
-import meter1 from "../assets/img/meter1.svg";
+import meter from "../assets/img/meter.svg";
 import meter2 from "../assets/img/meter2.svg";
 import meter3 from "../assets/img/meter3.svg";
 import Carousel from "react-multi-carousel";
@@ -47,7 +47,7 @@ export const Skills = () => {
                 className="owl-carousel owl-theme skill-slider"
               >
                 <div className="item">
-                  <img src={meter2} alt="Image" />
+                  <img src={meter} alt="Image" />
                   <h5>React</h5>
                 </div>
                 <div className="item">

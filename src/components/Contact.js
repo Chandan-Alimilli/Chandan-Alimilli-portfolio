@@ -116,12 +116,12 @@ export const Contact = () => {
                       <img src={linkedin} alt="Icon" />
                     </a>
 
-                    <a
+                    {/* <a
                       href="#"
                       onClick={() => handleIconClick("URL_for_third_icon")}
                     >
                       <img src={mailIcon} alt="Icon" />
-                    </a>
+                    </a> */}
                     <a
                       href="#"
                       onClick={() =>
@@ -130,6 +130,11 @@ export const Contact = () => {
                     >
                       <img src={gitIcon} alt="Icon" />
                     </a>
+                  </div>
+
+                  <div className="mail">
+                    <h4>Mail : chandanallimilli0808@gmail.com</h4>
+                    <h4> mobile : 9908085553 </h4>
                   </div>
 
                   <div className="context">
