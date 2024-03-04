@@ -17,3 +17,11 @@ Skills Section: Enumerating the technologies and tools I'm proficient in, showca
 
 # About Me
 I am a dedicated MERN stack web developer with a passion for creating robust and scalable applications. My skills encompass the entire development stack, allowing me to bring projects to life from conception to deployment.
+
+
+## Contact
+
+Ready to create web app wonders together? !Let's connect and explore the endless possibilities! 👋 [chandanallimilli0808@gmail.com](mailto:chandanallimilli0808@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/chandan-allimilli/). Let's collaborate and turn your ideas into reality!
+
+
+
