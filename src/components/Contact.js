@@ -137,6 +137,18 @@ export const Contact = () => {
                   <div className="mail">
                     <h4>Mail : chandanallimilli0808@gmail.com</h4>
                     <h4> mobile : 9908085553 </h4>
+
+                    <a
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        handleIconClick(
+                          "https://drive.google.com/file/d/1ZHTLjyQ_qtAL3PrWyDpOeVPJouMOd0Of/view?pli=1"
+                        );
+                      }}
+                    >
+                      <button class="proj-btn">Resume</button>
+                    </a>
                   </div>
 
                   <div className="context">
