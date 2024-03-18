@@ -60,13 +60,15 @@ export const Contact = () => {
           <Col size={12} md={6}>
             <TrackVisibility>
               {({ isVisible }) => (
-                <img
-                  className={
-                    isVisible ? "animate__animated animate__zoomIn" : ""
-                  }
-                  src={cvv}
-                  alt="Contact Us"
-                />
+                <a href="https://drive.google.com/file/d/1ZHTLjyQ_qtAL3PrWyDpOeVPJouMOd0Of/view?pli=1">
+                  <img
+                    className={
+                      isVisible ? "animate__animated animate__zoomIn" : ""
+                    }
+                    src={cvv}
+                    alt="Contact Us"
+                  />
+                </a>
               )}
             </TrackVisibility>
           </Col>
