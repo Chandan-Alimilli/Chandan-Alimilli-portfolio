@@ -1,36 +1,27 @@
-# Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
 
-Built using:
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+# Portfolio
+Welcome to my portfolio! As a passionate MERN stack web developer, I've crafted this showcase of my skills and projects using React.js and Bootstrap for a sleek and responsive user experience.
 
-In the /personal-portfolio, you can run:
+# Technologies Used
+React.js: Leveraging the power of React for efficient and dynamic user interfaces.
+Bootstrap: Employing Bootstrap to ensure a mobile-friendly and visually appealing design.
+MERN Stack: Proficient in MongoDB, Express.js, React.js, and Node.js for full-stack development.
 
-### `npm start`
+# Features
+Responsive Design: Ensuring a seamless experience across various devices and screen sizes.
+Project Showcase: Highlighting my MERN stack projects, demonstrating a range of skills and capabilities.
+Skills Section: Enumerating the technologies and tools I'm proficient in, showcasing my versatility.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# About Me
+I am a dedicated MERN stack web developer with a passion for creating robust and scalable applications. My skills encompass the entire development stack, allowing me to bring projects to life from conception to deployment.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Contact
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Ready to create web app wonders together? !Let's connect and explore the endless possibilities! 👋 [chandanallimilli0808@gmail.com](mailto:chandanallimilli0808@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/chandan-allimilli/). Let's collaborate and turn your ideas into reality!
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
