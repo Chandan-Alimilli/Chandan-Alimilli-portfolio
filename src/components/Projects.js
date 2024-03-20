@@ -1,6 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
+import Vv_img from "../assets/img/Video_vers _img.png";
 
 export const Projects = () => {
   const handleIconClick = (url) => {
@@ -76,7 +77,7 @@ export const Projects = () => {
                                 "https://chandan-yotube.netlify.app"
                               )
                             }
-                            src="https://assets.materialup.com/uploads/b72789f7-8bbe-4df8-967c-63445992db13/attachment.png"
+                            src={Vv_img}
                             alt="youtube_img"
                           />
                         </div>
