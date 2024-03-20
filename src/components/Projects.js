@@ -35,7 +35,7 @@ export const Projects = () => {
                       id="pills-tab"
                     >
                       <Nav.Item>
-                        <Nav.Link eventKey="first">Youtube</Nav.Link>
+                        <Nav.Link eventKey="first">Video Verse</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
                         <Nav.Link eventKey="second">webflix</Nav.Link>
@@ -53,16 +53,16 @@ export const Projects = () => {
                       <Tab.Pane eventKey="first">
                         <div class="flex-container">
                           <p class="summary">
-                            Designed and developed a comprehensive YouTube clone
-                            using React, Redux, React Router, and custom CSS.
-                            The project showcases a commitment to crafting a
-                            user-friendly and visually engaging platform that
-                            emulates the core functionalities of the original
-                            YouTube. By leveraging a powerful combination of
-                            frontend technologies, the clone achieves a dynamic
-                            and responsive user interface, providing users with
-                            a seamless and immersive video-sharing experience.
-                            The project stands as a testament to the developer's
+                            Designed and developed a comprehensive A Mini
+                            Streaming Platform using React, Redux, React Router,
+                            and custom CSS. The project showcases a commitment
+                            to crafting a user-friendly and visually engaging
+                            platform that emulates the core functionalities . By
+                            leveraging a powerful combination of frontend
+                            technologies, the clone achieves a dynamic and
+                            responsive user interface, providing users with a
+                            seamless and immersive video-sharing experience. The
+                            project stands as a testament to the developer's
                             adaptability and creativity in the rapidly evolving
                             landscape of frontend development, contributing to
                             innovative and future-ready solutions for a dynamic
@@ -89,7 +89,7 @@ export const Projects = () => {
                             );
                           }}
                         >
-                          <button class="proj-btn">Youtube</button>
+                          <button class="proj-btn">Video Verse</button>
                         </a>
 
                         <div class="tech-summary">
